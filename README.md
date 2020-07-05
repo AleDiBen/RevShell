@@ -15,7 +15,7 @@ This is a simple C-based reverse shell used to open a _cmd_ or _powershell_ sess
 5. Enjoy :)
 
 ## Examples
-Before starting the executable make sure you have started a listener on your favorite (Linux) distribution (eg. Kali Linux).
+Before starting the executable make sure you have started a listener on your favorite (Linux) distribution. I use netcat on Kali Linux.
 
 > Open a cmd session
 ```
