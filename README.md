@@ -1,7 +1,7 @@
 # RevShell
 
 ## Description
-This is a simple C-based reverse shell used to open a _cmd_ or _powershell_ session from Windows to Linux/Windows/OSx.
+This is a simple C-based reverse shell used to open a _CMD_ or _PowerShell_ session from Windows to Linux/Windows/OSx.
 
 ## Features
 - [x] Open a reverse shell using cmd.exe
